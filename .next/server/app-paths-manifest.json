@@ -1,0 +1,5 @@
+{
+  "/page": "app/page.js",
+  "/api/tasks/route": "app/api/tasks/route.js",
+  "/api/tasks/[id]/route": "app/api/tasks/[id]/route.js"
+}
